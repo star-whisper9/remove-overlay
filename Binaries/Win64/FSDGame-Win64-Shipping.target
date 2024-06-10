@@ -222,6 +222,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(ProjectDir)/Plugins/HotPatcher/HotPatcher.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(ProjectDir)/Plugins/SimpleUGC/SimpleUGC.uplugin",
 			"Type": "UFS"
 		},

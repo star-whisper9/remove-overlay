@@ -1,0 +1,11 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"BinariesPatchFeature": "UE4Editor-BinariesPatchFeature.dll",
+		"CmdHandler": "UE4Editor-CmdHandler.dll",
+		"HotPatcherCore": "UE4Editor-HotPatcherCore.dll",
+		"HotPatcherEditor": "UE4Editor-HotPatcherEditor.dll",
+		"HotPatcherRuntime": "UE4Editor-HotPatcherRuntime.dll"
+	}
+}
